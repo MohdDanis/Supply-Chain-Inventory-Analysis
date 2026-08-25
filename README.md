@@ -26,6 +26,32 @@ The objective of this project is to:
 - DAX – KPI calculations and business measures
 - Data Visualization – Interactive reporting and insight generation
 
+## 📁 Project Structure
+
+Supply-Chain-Inventory-Analysis/
+│
+├── Dashboard/
+│   └── Supply Chain & Inventory Analysis Dashboard
+│
+├── Dataset/
+│   └── Supply_Chain_Inventory_Analysis.xlsx
+│
+├── Documentation/
+│   └── Business Analysis Summary
+│
+├── Images/
+│   └── Supply_Chain_Inventory_Analysis_Dashboard.png
+│
+└── README.md
+
+### 📌 Files & Folders
+
+- **Dashboard/** – Power BI dashboard showcasing supply-chain and inventory insights.
+- **Dataset/** – Cleaned supply-chain dataset used for analysis.
+- **Documentation/** – Business analysis summary, findings, and recommendations.
+- **Images/** – Dashboard preview image used in the README.
+- **README.md** – Project overview, methodology, KPIs, insights, and recommendations.
+
 ## 📈 Key Dashboard KPIs
 
 | KPI | Result |
@@ -109,25 +135,6 @@ The highest sales volume is associated with shipping times between 2 and 4 days.
 ## 🖥️ Dashboard Preview
 
 ![Supply Chain & Inventory Analysis Dashboard](Supply_Chain_Inventory_Analysis_Dashboard.png)
-
-## 📁 Project Structure
-
-```text
-Supply-Chain-Inventory-Analysis/
-│
-├── 📊 Dashboard/
-│   └── Supply Chain & Inventory Analysis Dashboard
-│
-├── 📂 Dataset/
-│   └── Supply_Chain_Inventory_Analysis.xlsx
-│
-├── 📄 Documentation/
-│   └── Business Analysis Summary
-│
-├── 🖼️ Images/
-│   └── Supply_Chain_Inventory_Analysis_Dashboard.png
-│
-└── README.md
 
 ## 🚀 Skills Demonstrated
 
