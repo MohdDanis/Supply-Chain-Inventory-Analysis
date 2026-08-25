@@ -26,24 +26,6 @@ The objective of this project is to:
 - DAX – KPI calculations and business measures
 - Data Visualization – Interactive reporting and insight generation
 
-## 📁 Project Structure
-
-Supply-Chain-Inventory-Analysis/
-│
-├── Dashboard/
-│   └── Supply Chain & Inventory Analysis Dashboard
-│
-├── Dataset/
-│   └── Supply_Chain_Inventory_Analysis.xlsx
-│
-├── Documentation/
-│   └── Business Analysis Summary
-│
-├── Images/
-│   └── Supply_Chain_Inventory_Analysis_Dashboard.png
-│
-└── README.md
-
 ### 📌 Files & Folders
 
 - **Dashboard/** – Power BI dashboard showcasing supply-chain and inventory insights.
@@ -139,3 +121,23 @@ The highest sales volume is associated with shipping times between 2 and 4 days.
 ## 🚀 Skills Demonstrated
 
 Data Cleaning • SQL • Excel • DAX • Power BI • Data Visualization • KPI Analysis • Inventory Analysis • Supply Chain Analytics • Business Intelligence • Business Insights
+
+
+## 📁 Project Structure
+
+```text
+Supply-Chain-Inventory-Analysis/
+│
+├── Dashboard/
+│   └── Supply Chain & Inventory Analysis Dashboard.pbix
+│
+├── Dataset/
+│   └── Supply_Chain_Inventory_Analysis.xlsx
+│
+├── Documentation/
+│   └── Business Analysis Summary.pdf
+│
+├── Images/
+│   └── Supply_Chain_Inventory_Analysis_Dashboard.png
+│
+└── README.md
