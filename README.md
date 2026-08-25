@@ -110,6 +110,25 @@ The highest sales volume is associated with shipping times between 2 and 4 days.
 
 ![Supply Chain & Inventory Analysis Dashboard](Supply_Chain_Inventory_Analysis_Dashboard.png)
 
+## 📁 Project Structure
+
+```text
+Supply-Chain-Inventory-Analysis/
+│
+├── 📊 Dashboard/
+│   └── Supply Chain & Inventory Analysis Dashboard
+│
+├── 📂 Dataset/
+│   └── Supply_Chain_Inventory_Analysis.xlsx
+│
+├── 📄 Documentation/
+│   └── Business Analysis Summary
+│
+├── 🖼️ Images/
+│   └── Supply_Chain_Inventory_Analysis_Dashboard.png
+│
+└── README.md
+
 ## 🚀 Skills Demonstrated
 
 Data Cleaning • SQL • Excel • DAX • Power BI • Data Visualization • KPI Analysis • Inventory Analysis • Supply Chain Analytics • Business Intelligence • Business Insights
